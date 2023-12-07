@@ -1,7 +1,7 @@
 /**
- * Complejidad Temporal -> O(  )
- * Complejidad Espacial -> O(  )
- * Espacio Auxiliar -> O(  )
+ * Complejidad Temporal -> O( n^2 )
+ * Complejidad Espacial -> O( n )
+ * Espacio Auxiliar -> O( 1 )
  */
 function bubbleSort(arreglo) {
     let longitud = arreglo.length;
